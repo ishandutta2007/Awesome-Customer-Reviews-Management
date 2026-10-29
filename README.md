@@ -53,7 +53,7 @@ The table below lists leading SaaS customer review and social proof platforms, s
 
 ## 💻 Open-Source GitHub Projects
 
-Curated self-hosted review software, WordPress/WooCommerce plugins, and developer toolkits. Sorted by GitHub Stars_Count descending.
+Curated self-hosted review software, WordPress/WooCommerce plugins, and developer toolkits. Sorted by GitHub_Stars_Count descending.
 
 | Repository | GitHub_Stars ⭐ | Architecture & Stack 🛠️ | Description & Strengths 📖 |
 | :--- | :--- | :--- | :--- |
