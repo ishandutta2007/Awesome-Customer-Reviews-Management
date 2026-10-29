@@ -1,4 +1,4 @@
-# 🌟 Awesome Customer Reviews Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🌟 Awesome Customer Reviews Management <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Customer Reviews Management Banner" width="100%">
@@ -14,6 +14,8 @@
   <a href="#-saashosted-platforms">SaaS Platforms</a> •
   <a href="#-open-source-github-projects">Open-Source Projects</a> •
   <a href="#-key-selection-criteria">Selection Guide</a> •
+  <a href="#-star-history">Star History</a> •
+  <a href="#-support">Support</a> •
   <a href="#-how-to-contribute">Contributing</a>
 </p>
 
@@ -80,6 +82,23 @@ When selecting a customer review and reputation management system, consider:
 - 📸 **Visual UGC & Rich Media**: Photo and video reviews provide significantly higher social conversion rates compared to plaintext stars.
 - 🛡️ **Anti-Fraud & Moderation**: Built-in verification mechanisms (automated purchase verification, rate limiting, and CAPTCHA) safeguard against spam and ensure compliance with FTC guidelines.
 - 🔒 **Data Ownership & Privacy**: Self-hosted solutions guarantee your customer feedback data stays securely within your private infrastructure.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Reviews-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Reviews-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+If you find this curated ecosystem directory helpful, consider supporting its maintenance!
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** by submitting new open-source repos and SaaS platforms.
+- 📢 **Share it** with fellow store owners, ecommerce engineers, and growth marketers.
+- ☕ **Buy me a coffee**: Support ongoing research and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
